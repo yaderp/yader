@@ -1,0 +1,3 @@
+Starvation Cuando un bloque se repite infinitamente
+
+deadlock
